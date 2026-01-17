@@ -1,0 +1,7 @@
+# GameMaker archivos a ignorar
+configs/
+export/
+options/main/inherited/
+scripts/*.gml.txt
+*.yyz
+*.temp

@@ -1,1 +1,1 @@
-depth = -1000; 
+ instance_create_layer(x, y + 100, "backToMenu", objReturnMenu);

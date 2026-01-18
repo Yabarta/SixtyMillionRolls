@@ -1,11 +1,10 @@
-if (keyboard_check_pressed(vk_space)) {
+if (keyboard_check_pressed(vk_space) && rolling == false) {
     rolling = true;
-    rolling_time = 30 + irandom(20);
-    /*
-    if (instance_find(objDice, 0) == id) {
+    rolling_time = 40;
+    if (instance_find(objDice, 9) == id) {
         audio_play_sound(sndRoll, 0, false);
     }
-    */
+    
 }
 
 // Rolling animation

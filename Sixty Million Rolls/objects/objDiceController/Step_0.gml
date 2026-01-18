@@ -23,4 +23,22 @@ if (global.win == false) {
         */
         alarm[0] = 180; 
     }
+    
+    if (stopped_dices == total_dices) {
+    
+        if (roll_processed == false) {
+        
+            var money = dices_with_six * global.multiplyer;
+            global.honeycombs += money;
+        
+            if (money > 0) {
+                // audio_play_sound(sndMoney, 5, false);
+            }
+
+            roll_processed = true;
+        }
+
+    } else {
+        roll_processed = false;
+    }
 }

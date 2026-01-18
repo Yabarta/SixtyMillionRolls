@@ -1,0 +1,12 @@
+draw_set_font(fntGame); 
+draw_set_color(c_white);
+draw_set_halign(fa_center); 
+draw_set_valign(fa_middle); 
+
+var separation = 35; 
+var auto_enter = 640; 
+
+draw_text_ext(room_width / 2, room_height / 6, title, separation, auto_enter);
+
+draw_set_halign(fa_left);
+draw_set_valign(fa_top);

@@ -8,6 +8,7 @@
   "instanceCreationOrder":[
     {"name":"inst_2FC6B9C0","path":"rooms/rmCredits/rmCredits.yy",},
     {"name":"inst_31253E00","path":"rooms/rmCredits/rmCredits.yy",},
+    {"name":"inst_6C7FEDC7","path":"rooms/rmCredits/rmCredits.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -16,6 +17,7 @@
         {"$GMRInstance":"v4","%Name":"inst_31253E00","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_31253E00","objectId":{"name":"objReturnMenu","path":"objects/objReturnMenu/objReturnMenu.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"objButtonText","path":"objects/objButtonText/objButtonText.yy",},"propertyId":{"name":"text","path":"objects/objButtonText/objButtonText.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Menu",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":582.0,"y":303.0,},
+        {"$GMRInstance":"v4","%Name":"inst_6C7FEDC7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6C7FEDC7","objectId":{"name":"objMusicController","path":"objects/objMusicController/objMusicController.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":192.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"sprTable","path":"sprites/sprTable/sprTable.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

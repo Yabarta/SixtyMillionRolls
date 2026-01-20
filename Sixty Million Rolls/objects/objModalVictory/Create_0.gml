@@ -1,1 +1,1 @@
- instance_create_layer(x, y + 100, "backToMenu", objReturnMenu);
+ instance_create_layer(x + 80, y + 55, "backToMenu", objReturnMenu);

@@ -10,4 +10,5 @@ Every time you get a 6 you will be rewarded with a honeycomb. Once you get enoug
 
 1.Honey:   make a dice gooey so it always stays on 6 (Maximum of 3).
 2.Flower:  make the production better by eliminating all ones (twos and threes by upgrade).
-3.Bee:     sting a dice to make it roll again (Maximum of 3).";
+3.Bee:     get more honey (Maximum of 3).
+4.Hive:    reroll the dices one time keeping all your 6s.";

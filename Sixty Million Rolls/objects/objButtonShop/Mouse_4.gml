@@ -1,0 +1,1 @@
+global.shop_opened = !global.shop_opened;
